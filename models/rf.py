@@ -23,13 +23,6 @@ def model():
     return model_instance
 
 
-def new_experimental_feature():
-    print('something new')
-
-
-def newer_feature_again():
-    print('something else which is also new')
-
 
 def something_else_new():
     print('something else')
